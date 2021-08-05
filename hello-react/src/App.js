@@ -1,6 +1,7 @@
-import SalesTable from "./components/SalesTable";
+import Home from "./pages/Home";
 function App(props) {
-  return <SalesTable />;
+  // return <SalesTable />;
+  return <Home />;
 }
 
 export default App;
