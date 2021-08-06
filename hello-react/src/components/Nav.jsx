@@ -9,7 +9,7 @@ function Nav() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <a href="/">
+              <a href={""}>
                 <img
                   className="h-7 w-36"
                   src={process.env.PUBLIC_URL + "/Color-logo-no-background.png"}
